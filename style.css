@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    color: coral;
+    font-family: cursive;
+    font-size: 30px;
+}
+img{
+    padding: 7px;
+    border-radius: 20px;
+}
+#apps{
+    background-color: bisque;
+}
+#games{
+    background-color: lightgreen;
+}
+#chatbot{
+    background-color: lightblue;
+}
